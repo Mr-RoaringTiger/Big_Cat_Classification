@@ -8,6 +8,10 @@ The project includes two Jupyter Notebook files:
 1. `big_cat_recognition.ipynb`: This notebook is used to train the CNN model and save the evaluation metrics (loss and accuracy).
 2. `graph_and_prediction_big_cat.ipynb`: This notebook is used to load the saved model and evaluation metrics, plot graphs for loss and accuracy, and make predictions.
 
+## Dataset
+
+The dataset used for this project is sourced from Kaggle. It can be accessed through the following link: [Big Cats Image Classification Dataset](https://www.kaggle.com/datasets/patriciabrezeanu/big-cats-image-classification-dataset).
+
 ## Libraries Used
 
 The following libraries are used in this project:
